@@ -1,0 +1,9 @@
+{
+    "userId": "jenkins",
+    "firstName": "jenkins",
+    "lastName": "jenkins",
+    "emailAddress": "jenkins@jenkins.com",
+    "password": "jenkins",
+    "status": "active",
+    "roles": []
+}
