@@ -1,9 +1,9 @@
 {
-    "userId": "jenkins",
-    "firstName": "jenkins",
-    "lastName": "jenkins",
-    "emailAddress": "jenkins@jenkins.com",
-    "password": "jenkins",
+    "userId": "jenkins2",
+    "firstName": "jenkins2",
+    "lastName": "jenkins2",
+    "emailAddress": "jenkins2@jenkins2.com",
+    "password": "jenkins2",
     "status": "active",
-    "roles": []
+    "roles": ["nx-admin"]
 }
